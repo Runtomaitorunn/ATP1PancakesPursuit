@@ -1,2 +1,2 @@
-# ATP1PancakesPursuit
-This is a game for course Approaches To Play 1. Game link:https://tomaito.itch.io/pancakes-pursuit-the-illuminate-adventure
+# GP1Midterm_PuppyPark
+This is a game for course Game Programming 1 midterm. Game link:https://tomaito.itch.io/puppy-park
